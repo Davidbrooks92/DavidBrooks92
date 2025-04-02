@@ -18,13 +18,12 @@ I also have a good understanding of terrestrial and satellite network infrastruc
 
 🔹 **[2D-Game-Engine](https://github.com/Davidbrooks92/2D-Game-Engine)** – Brief: My current project using C++ and LUA to build a basic 2D game engine to show a variey of skills. 
 
-🔹 **[UNI 3rd Year Project - Lift simulation](https://github.com/Davidbrooks92/Lift_Simulation)** – Brief: My 3rd year university project for my Object-orientated programming module, unfortunatly it is unfinished but I plan to complete it when I get enough time.
+🔹 **[UNI 3rd Year Project - Lift simulation](https://github.com/Davidbrooks92/Lift_Simulation)** – Brief: My 3rd year university project for my Object-orientated programming module, unfortunately it is unfinished but I plan to complete it when I get enough time.
 
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/david-b-81046319b](https://www.linkedin.com/in/david-b-81046319b)
 - **GitHub:** [github.com/Davidbrooks92](https://github.com/Davidbrooks92)
-- **Portfolio:** [YourPortfolioLinkHere](#)
 
 ### ☕ Fun Fact: I love coding, coffee, and my Ragdoll cat, Chungus! 😸
 
