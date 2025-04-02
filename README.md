@@ -1,8 +1,10 @@
 # Hi there, I'm David Brooks! 👋
 
-🚀 **Software Developer | Full-Stack Enthusiast | Always Learning, Always Building**
+🚀 **Software Developer | C++ Enthusiast | Always Learning, Always Building**
 
 I'm a passionate developer with experience in **C, C++, Python, JavaScript, PHP**, and **full-stack web development**. I love tackling complex problems, optimizing performance, and creating clean, efficient code. Looking for new opportunities in **remote development** where I can bring my skills and creativity to exciting projects.
+
+I also have a good understanding of terrestrial and satellite network infrastructure, gained from working for Avanti Communications.
 
 ## 🔧 Tech Stack
 
@@ -14,11 +16,9 @@ I'm a passionate developer with experience in **C, C++, Python, JavaScript, PHP*
 
 ## 📌 Featured Projects
 
-🔹 **[Project Name 1](#)** – Brief description (e.g., "A full-stack web app built with React and Node.js.")
+🔹 **[2D-Game-Engine](https://github.com/Davidbrooks92/2D-Game-Engine)** – Brief: My current project using C++ and LUA to build a basic 2D game engine to show a variey of skills. 
 
-🔹 **[Project Name 2](#)** – Brief description (e.g., "Python automation script for data analysis and visualization.")
-
-🔹 **[Project Name 3](#)** – Brief description (e.g., "Custom API integration project for streamlining workflows.")
+🔹 **[UNI 3rd Year Project - Lift simulation](https://github.com/Davidbrooks92/Lift_Simulation)** - Brief: My 3rd year university project for my Object-orientated programming module, unfortunatly it is unfinished but I plan to complete it when I get enough time.
 
 ## 📫 Let's Connect!
 
