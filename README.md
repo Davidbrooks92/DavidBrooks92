@@ -8,7 +8,7 @@ I also have a good understanding of terrestrial and satellite network infrastruc
 
 ## 🔧 Tech Stack
 
-- **Languages:** C, C++, Python, Java, JavaScript, PHP
+- **Languages:** C, C++, C#, Python, Java, JavaScript, PHP
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, PHP, SQL
 - **Dev Tools:** Git, APIs, Agile, ServiceNow
